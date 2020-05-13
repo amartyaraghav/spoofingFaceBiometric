@@ -7,4 +7,4 @@ Steps:
 3. Run Otrain.py
 4. For subsequent runs you could comment the training model codes present and mentioned in the Otrain.py
 
-For more clear understanding refer to Readme.ppt or the video explanation.
+For more clear understanding refer to Readme.ppt or the video explanation at https://www.youtube.com/watch?v=fQxS9iB31BQ.
